@@ -1,0 +1,30 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/tseng/tb3_ws/devel/include/**",
+        "/home/tseng/catkin_ws/devel/include/**",
+        "/opt/ros/kinetic/include/**",
+        "/home/tseng/catkin_ws/src/fiducials/fiducial_slam/include/**",
+        "/home/tseng/tb3_ws/src/line_follower_turtlebot/include/**",
+        "/home/tseng/catkin_ws/src/rviz_camera_stream/include/**",
+        "/home/tseng/catkin_ws/src/rviz_textured_quads/include/**",
+        "/home/tseng/tb3_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/tseng/tb3_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/tseng/tb3_ws/src/turtlebot3/turtlebot3_slam/include/**",
+        "/home/tseng/catkin_ws/src/vision_msgs/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
