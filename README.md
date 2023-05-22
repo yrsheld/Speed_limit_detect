@@ -1,7 +1,5 @@
 # Speed limit sign detection
 
-Detailed note - [link](https://hackmd.io/@yrsheld/r1pXAwrrn)
-
 Autonomous navigation of Turtlebot3 with RGB camera (pi camera)
 
 ## Tasks
